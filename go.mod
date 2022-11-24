@@ -1,4 +1,4 @@
-module kubevirt.io/client-go
+module github.com/kubeovn/kubevirt-client-go
 
 go 1.17
 
@@ -23,6 +23,7 @@ require (
 	k8s.io/kube-openapi v0.0.0-20220124234850-424119656bbf
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
 	kubevirt.io/api v0.0.0-20221013011232-17665f214e18
+	kubevirt.io/client-go v0.58.0
 	kubevirt.io/containerized-data-importer-api v1.50.0
 )
 
