@@ -20,7 +20,7 @@ require (
 	k8s.io/client-go v0.34.3
 	k8s.io/kube-openapi v0.31.0
 	k8s.io/utils v0.0.0-20260319190234-28399d86e0b5
-	kubevirt.io/api v0.0.0-20260820044252-88f98d65dbd0
+	kubevirt.io/api v0.0.0-20260820044534-0d144a5f4ff4
 	kubevirt.io/containerized-data-importer-api v1.64.0
 	sigs.k8s.io/randfill v1.0.0
 )
